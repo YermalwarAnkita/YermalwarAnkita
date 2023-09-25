@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YermalwarAnkita
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning in 3rd year of engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in 4th year of engineering
 
 <!---
 YermalwarAnkita/YermalwarAnkita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
